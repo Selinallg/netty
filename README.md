@@ -2,6 +2,8 @@
 netty长连接
 github：https://github.com/zhangrenquan/netty.git
 
+https://blog.csdn.net/weixin_45680654/article/details/112468356
+
 准备工作：
     依赖：
             implementation 'io.netty:netty-all:4.1.36.Final'
